@@ -1,0 +1,7 @@
+{
+    "name": "Mot",
+    "script": "./dist/index.js",
+    "cwd": "./",
+    "out_file": "./mot.log",
+    "error_file": "./mot.log"
+}
